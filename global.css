@@ -1,7 +1,7 @@
 @import url('/integration_1/asset/css/header.css');
 @import url('/integration_1/asset/css/main.css');
 @import url('/integration_1/asset/css/footer.css');
-
+/* Les chemins des fichiers css sont corrigés pour que le css soit appliqué à la page html */
 * {
     padding: 0;
     margin: 0;
