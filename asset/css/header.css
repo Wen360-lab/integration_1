@@ -1,15 +1,14 @@
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+header{
     height: 80px;
     width: 100%;
     background-color: #2473ca;
     margin-bottom: 20px ;
 }
 
-.section-header, .box-titre-header {
+header,.section-header, .box-titre-header {
     display: flex;
     justify-content: center;
     align-items: center; 
 }
+
+ 
