@@ -1,4 +1,8 @@
 main {
+    flex: 1;
+}
+
+main {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,6 +40,7 @@ main {
     width: 100%;
     background-color: #f07d25;
     gap: 20px;
+    text-align: center;
 }
 
 button {
@@ -65,6 +70,7 @@ button {
     align-items: center;
     justify-content: center;
     gap: 60px;
+    text-align: center;
 }
 
 .box-services {
