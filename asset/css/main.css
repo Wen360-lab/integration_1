@@ -40,7 +40,6 @@ main {
     width: 100%;
     background-color: #f07d25;
     gap: 20px;
-    text-align: center;
 }
 
 button {
@@ -70,7 +69,6 @@ button {
     align-items: center;
     justify-content: center;
     gap: 60px;
-    text-align: center;
 }
 
 .box-services {
@@ -91,6 +89,10 @@ button {
 
     .box-services {
         height: 500px;
+    }
+
+    .section-nav {
+        display: none;
     }
     
 }
